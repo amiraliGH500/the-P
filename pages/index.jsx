@@ -8,6 +8,11 @@ import Footer from '../components/Footer'
 function Index() {
   return (
     <div>
+      <Head>
+        <title>
+          amirai's web page
+        </title>
+      </Head>  
       <Header/>
       <Nav/>
       <Section/>
