@@ -8,10 +8,6 @@ import Footer from '../components/Footer'
 function Index() {
   return (
     <div>
-      <Head>
-        <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
-        <title>amirali's home page</title>
-      </Head>
       <Header/>
       <Nav/>
       <Section/>
