@@ -10,7 +10,7 @@ function Index() {
     <div>
       <Head>
         <title>
-          amirai's web page
+          my page
         </title>
       </Head>  
       <Header/>
