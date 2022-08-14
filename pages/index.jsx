@@ -16,7 +16,6 @@ function Index() {
       <Header/>
       <Nav/>
       <Section/>
-      <Footer/>
     </div>
   )
 }
